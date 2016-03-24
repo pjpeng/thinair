@@ -40,9 +40,9 @@ For now, **vrep_plugin** and **vrep_common** have been tested in the following e
 4. Load Ray-with-ros-enabled-sensors scene file and run.
 
 5. Run **ackslam** node.
-```
-rosrun ackslam ackslam_node
-```
+  ```
+  rosrun ackslam ackslam_node
+  ```
 6. Control the car to move around using your keyboard.
 
 ## Usage
